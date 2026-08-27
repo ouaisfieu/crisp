@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#08090c"/><stop offset="1" stop-color="#141822"/>
+</linearGradient>
+<radialGradient id="r1" cx="0.88" cy="0.08" r="0.75">
+<stop offset="0" stop-color="#f2c14e" stop-opacity="0.26"/><stop offset="1" stop-color="#f2c14e" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="r2" cx="0.02" cy="1" r="0.65">
+<stop offset="0" stop-color="#e4483d" stop-opacity="0.22"/><stop offset="1" stop-color="#e4483d" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+<path d="M60 0H0v60" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#grid)"/>
+<rect width="1200" height="630" fill="url(#r1)"/>
+<rect width="1200" height="630" fill="url(#r2)"/>
+<g opacity="0.9">
+<g stroke="#ffffff" stroke-opacity="0.16" fill="none" stroke-width="1.4">
+<path d="M1042 128 1120 250M1042 128 962 252M1120 250 962 252M962 252 1064 372M1120 250 1064 372M962 252 900 420M1064 372 900 420"/>
+</g>
+<circle cx="1042" cy="128" r="21" fill="#f2c14e"/>
+<circle cx="1120" cy="250" r="13" fill="#7aa2f7"/>
+<circle cx="962" cy="252" r="16" fill="#e4483d"/>
+<circle cx="1064" cy="372" r="11" fill="#4ec9b0"/>
+<circle cx="900" cy="420" r="9" fill="#c39bf5"/>
+</g>
+<text x="76" y="96" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="21" letter-spacing="5" fill="#f2c14e">INSTITUTIONS</text>
+<text x="76" y="298" font-family="Fraunces, DejaVu Serif, Georgia, serif" font-size="70" font-weight="600" fill="#ffffff"><tspan x="76" dy="0">Six réformes, aucune</tspan><tspan x="76" dy="81">hiérarchie des normes</tspan></text>
+<text x="76" y="545" font-family="Inter, DejaVu Sans, sans-serif" font-size="24" fill="#98a1b3">Fan club non officiel du CRISP</text>
+<text x="76" y="578" font-family="Inter, DejaVu Sans, sans-serif" font-size="24" fill="#5f6779">Cartographier le pouvoir en Belgique</text>
+<rect x="76" y="112" width="96" height="3" fill="#f2c14e" opacity="0.6"/>
+</svg>
