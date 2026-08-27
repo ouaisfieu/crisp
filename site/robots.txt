@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ouaisfieu.github.io/crisp/sitemap.xml
